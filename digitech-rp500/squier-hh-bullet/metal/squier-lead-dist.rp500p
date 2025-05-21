@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RP500Preset SchemaVersion="1.2" xmlns="http://www.digitech.com/xml/preset">
+  <Name>SQ LD DS  </Name>
+  <Params>
+    <Param>
+      <ID>128</ID>
+      <Position>3</Position>
+      <Value>132</Value>
+      <Name>Wah Type</Name>
+      <Text>Cry Wah</Text>
+    </Param>
+    <Param>
+      <ID>129</ID>
+      <Position>3</Position>
+      <Value>0</Value>
+      <Name>Wah Enable</Name>
+      <Text>Off</Text>
+    </Param>
+    <Param>
+      <ID>132</ID>
+      <Position>3</Position>
+      <Value>99</Value>
+      <Name>Wah Position</Name>
+      <Text>99</Text>
+    </Param>
+    <Param>
+      <ID>133</ID>
+      <Position>3</Position>
+      <Value>0</Value>
+      <Name>Wah Vol. Boost</Name>
+      <Text>0dB</Text>
+    </Param>
+    <Param>
+      <ID>193</ID>
+      <Position>4</Position>
+      <Value>1</Value>
+      <Name>Compressor Enable</Name>
+      <Text>On</Text>
+    </Param>
+    <Param>
+      <ID>207</ID>
+      <Position>4</Position>
+      <Value>196</Value>
+      <Name>Comp Type</Name>
+      <Text>CS Comp</Text>
+    </Param>
+    <Param>
+      <ID>208</ID>
+      <Position>4</Position>
+      <Value>55</Value>
+      <Name>Compressor Sustain</Name>
+      <Text>55</Text>
+    </Param>
+    <Param>
+      <ID>210</ID>
+      <Position>4</Position>
+      <Value>50</Value>
+      <Name>Compressor Level</Name>
+      <Text>50</Text>
+    </Param>
+    <Param>
+      <ID>211</ID>
+      <Position>4</Position>
+      <Value>0</Value>
+      <Name>Compressor Attack</Name>
+      <Text>0</Text>
+    </Param>
+    <Param>
+      <ID>2432</ID>
+      <Position>6</Position>
+      <Value>1280</Value>
+      <Name>Dist Type</Name>
+      <Text>Screamer</Text>
+    </Param>
+    <Param>
+      <ID>2433</ID>
+      <Position>6</Position>
+      <Value>1</Value>
+      <Name>Dist Enable</Name>
+      <Text>On</Text>
+    </Param>
+    <Param>
+      <ID>2434</ID>
+      <Position>6</Position>
+      <Value>45</Value>
+      <Name>Dist Drive</Name>
+      <Text>45</Text>
+    </Param>
+    <Param>
+      <ID>2435</ID>
+      <Position>6</Position>
+      <Value>30</Value>
+      <Name>Dist Tone</Name>
+      <Text>30</Text>
+    </Param>
+    <Param>
+      <ID>2436</ID>
+      <Position>6</Position>
+      <Value>75</Value>
+      <Name>Dist Level</Name>
+      <Text>75</Text>
+    </Param>
+    <Param>
+      <ID>2496</ID>
+      <Position>8</Position>
+      <Value>331</Value>
+      <Name>Amp A Type</Name>
+      <Text>Solo</Text>
+    </Param>
+    <Param>
+      <ID>2497</ID>
+      <Position>8</Position>
+      <Value>85</Value>
+      <Name>Amp A Gain</Name>
+      <Text>85</Text>
+    </Param>
+    <Param>
+      <ID>2498</ID>
+      <Position>8</Position>
+      <Value>85</Value>
+      <Name>Amp A Level</Name>
+      <Text>85</Text>
+    </Param>
+    <Param>
+      <ID>2507</ID>
+      <Position>8</Position>
+      <Value>45</Value>
+      <Name>Amp B Level</Name>
+      <Text>5.50</Text>
+    </Param>
+    <Param>
+      <ID>2508</ID>
+      <Position>8</Position>
+      <Value>45</Value>
+      <Name>Amp B Level</Name>
+      <Text>5.50</Text>
+    </Param>
+    <Param>
+      <ID>2509</ID>
+      <Position>8</Position>
+      <Value>40</Value>
+      <Name>Amp B Level</Name>
+      <Text>5.00</Text>
+    </Param>
+    <Param>
+      <ID>2560</ID>
+      <Position>9</Position>
+      <Value>618</Value>
+      <Name>Cab A Type</Name>
+      <Text>DigiTech® Metal 4x12</Text>
+    </Param>
+    <Param>
+      <ID>704</ID>
+      <Position>12</Position>
+      <Value>768</Value>
+      <Name>Gate Type</Name>
+      <Text>Gate</Text>
+    </Param>
+    <Param>
+      <ID>705</ID>
+      <Position>12</Position>
+      <Value>1</Value>
+      <Name>Gate Enable</Name>
+      <Text>On</Text>
+    </Param>
+    <Param>
+      <ID>710</ID>
+      <Position>12</Position>
+      <Value>35</Value>
+      <Name>Gate Threshold</Name>
+      <Text>35</Text>
+    </Param>
+    <Param>
+      <ID>712</ID>
+      <Position>12</Position>
+      <Value>0</Value>
+      <Name>Gate Attack</Name>
+      <Text>0</Text>
+    </Param>
+    <Param>
+      <ID>713</ID>
+      <Position>12</Position>
+      <Value>0</Value>
+      <Name>Gate Release</Name>
+      <Text>0</Text>
+    </Param>
+    <Param>
+      <ID>714</ID>
+      <Position>12</Position>
+      <Value>99</Value>
+      <Name>Gate Attenuation</Name>
+      <Text>99</Text>
+    </Param>
+    <Param>
+      <ID>2626</ID>
+      <Position>13</Position>
+      <Value>99</Value>
+      <Name>Volume Pre FX</Name>
+      <Text>99</Text>
+    </Param>
+    <Param>
+      <ID>768</ID>
+      <Position>14</Position>
+      <Value>897</Value>
+      <Name>Mod Type</Name>
+      <Text>Phaser</Text>
+    </Param>
+    <Param>
+      <ID>769</ID>
+      <Position>14</Position>
+      <Value>0</Value>
+      <Name>Chorus/FX Enable</Name>
+      <Text>Off</Text>
+    </Param>
+    <Param>
+      <ID>770</ID>
+      <Position>14</Position>
+      <Value>1544</Value>
+      <Name>Mod Pre/Post</Name>
+      <Text>Post</Text>
+    </Param>
+    <Param>
+      <ID>962</ID>
+      <Position>14</Position>
+      <Value>20</Value>
+      <Name>Phaser Speed</Name>
+      <Text>20</Text>
+    </Param>
+    <Param>
+      <ID>963</ID>
+      <Position>14</Position>
+      <Value>80</Value>
+      <Name>Phaser Depth</Name>
+      <Text>80</Text>
+    </Param>
+    <Param>
+      <ID>965</ID>
+      <Position>14</Position>
+      <Value>99</Value>
+      <Name>Phaser Level</Name>
+      <Text>99</Text>
+    </Param>
+    <Param>
+      <ID>966</ID>
+      <Position>14</Position>
+      <Value>60</Value>
+      <Name>Phaser Regen</Name>
+      <Text>60</Text>
+    </Param>
+    <Param>
+      <ID>967</ID>
+      <Position>14</Position>
+      <Value>1</Value>
+      <Name>Phaser Waveform</Name>
+      <Text>Sine</Text>
+    </Param>
+    <Param>
+      <ID>1856</ID>
+      <Position>15</Position>
+      <Value>1052</Value>
+      <Name>Delay Type</Name>
+      <Text>Digital</Text>
+    </Param>
+    <Param>
+      <ID>1857</ID>
+      <Position>15</Position>
+      <Value>1</Value>
+      <Name>Delay Enable</Name>
+      <Text>On</Text>
+    </Param>
+    <Param>
+      <ID>1860</ID>
+      <Position>15</Position>
+      <Value>10</Value>
+      <Name>Delay Level</Name>
+      <Text>10</Text>
+    </Param>
+    <Param>
+      <ID>1863</ID>
+      <Position>15</Position>
+      <Value>0</Value>
+      <Name>Delay Repeats</Name>
+      <Text>0</Text>
+    </Param>
+    <Param>
+      <ID>1868</ID>
+      <Position>15</Position>
+      <Value>310</Value>
+      <Name>Delay Tap Time</Name>
+      <Text>22.10sec</Text>
+    </Param>
+    <Param>
+      <ID>1889</ID>
+      <Position>15</Position>
+      <Value>0</Value>
+      <Name>Delay Duck Thresh</Name>
+      <Text>0</Text>
+    </Param>
+    <Param>
+      <ID>1890</ID>
+      <Position>15</Position>
+      <Value>0</Value>
+      <Name>Delay Duck Level</Name>
+      <Text>0</Text>
+    </Param>
+    <Param>
+      <ID>1920</ID>
+      <Position>16</Position>
+      <Value>1148</Value>
+      <Name>Reverb Type</Name>
+      <Text>Lexicon Room</Text>
+    </Param>
+    <Param>
+      <ID>1921</ID>
+      <Position>16</Position>
+      <Value>1</Value>
+      <Name>Reverb Enable</Name>
+      <Text>On</Text>
+    </Param>
+    <Param>
+      <ID>1922</ID>
+      <Position>16</Position>
+      <Value>1</Value>
+      <Name>Reverb Predelay</Name>
+      <Text>1</Text>
+    </Param>
+    <Param>
+      <ID>1925</ID>
+      <Position>16</Position>
+      <Value>41</Value>
+      <Name>Reverb Level</Name>
+      <Text>41</Text>
+    </Param>
+    <Param>
+      <ID>1927</ID>
+      <Position>16</Position>
+      <Value>75</Value>
+      <Name>Reverb Decay</Name>
+      <Text>75</Text>
+    </Param>
+    <Param>
+      <ID>1933</ID>
+      <Position>16</Position>
+      <Value>80</Value>
+      <Name>Reverb Liveliness</Name>
+      <Text>80</Text>
+    </Param>
+    <Param>
+      <ID>2626</ID>
+      <Position>17</Position>
+      <Value>99</Value>
+      <Name>Volume Post FX</Name>
+      <Text>99</Text>
+    </Param>
+    <Param>
+      <ID>2626</ID>
+      <Position>18</Position>
+      <Value>80</Value>
+      <Name>Preset Level</Name>
+      <Text>80</Text>
+    </Param>
+    <Param>
+      <ID>8194</ID>
+      <Position>19</Position>
+      <Value>854594</Value>
+      <Name>Pedal Assign 1</Name>
+    </Param>
+    <Param>
+      <ID>8195</ID>
+      <Position>19</Position>
+      <Value>0</Value>
+      <Name>Pedal Min 1</Name>
+      <Text>0</Text>
+    </Param>
+    <Param>
+      <ID>8196</ID>
+      <Position>19</Position>
+      <Value>99</Value>
+      <Name>Pedal Max 1</Name>
+      <Text>99</Text>
+    </Param>
+    <Param>
+      <ID>8194</ID>
+      <Position>20</Position>
+      <Value>196740</Value>
+      <Name>V-Switch Pedal Assign</Name>
+    </Param>
+    <Param>
+      <ID>8195</ID>
+      <Position>20</Position>
+      <Value>0</Value>
+      <Name>Wah Min</Name>
+      <Text>0</Text>
+    </Param>
+    <Param>
+      <ID>8196</ID>
+      <Position>20</Position>
+      <Value>99</Value>
+      <Name>Wah Min</Name>
+      <Text>99</Text>
+    </Param>
+    <Param>
+      <ID>8384</ID>
+      <Position>21</Position>
+      <Value>196737</Value>
+      <Name>V-Switch Assign</Name>
+    </Param>
+    <Param>
+      <ID>8385</ID>
+      <Position>21</Position>
+      <Value>0</Value>
+      <Name>V-Switch Min</Name>
+      <Text>Off</Text>
+    </Param>
+    <Param>
+      <ID>8386</ID>
+      <Position>21</Position>
+      <Value>1</Value>
+      <Name>V-Switch Max</Name>
+      <Text>On</Text>
+    </Param>
+    <Param>
+      <ID>8393</ID>
+      <Position>21</Position>
+      <Value>0</Value>
+      <Name>V-Switch Type</Name>
+      <Text>Toggle</Text>
+    </Param>
+    <Param>
+      <ID>8449</ID>
+      <Position>21</Position>
+      <Value>0</Value>
+      <Name>V-Switch Enable</Name>
+      <Text>Off</Text>
+    </Param>
+    <Param>
+      <ID>8258</ID>
+      <Position>22</Position>
+      <Value>0</Value>
+      <Name>LFO1 Assign</Name>
+    </Param>
+    <Param>
+      <ID>8259</ID>
+      <Position>22</Position>
+      <Value>0</Value>
+      <Name>LFO1 Min</Name>
+      <Text/>
+    </Param>
+    <Param>
+      <ID>8260</ID>
+      <Position>22</Position>
+      <Value>0</Value>
+      <Name>LFO1 Max</Name>
+      <Text/>
+    </Param>
+    <Param>
+      <ID>8262</ID>
+      <Position>22</Position>
+      <Value>0</Value>
+      <Name>LFO1 Speed</Name>
+      <Text>0.05Hz</Text>
+    </Param>
+    <Param>
+      <ID>8263</ID>
+      <Position>22</Position>
+      <Value>0</Value>
+      <Name>LFO1 Waveform</Name>
+      <Text>Tri</Text>
+    </Param>
+    <Param>
+      <ID>8258</ID>
+      <Position>23</Position>
+      <Value>0</Value>
+      <Name>LFO2 Assign</Name>
+    </Param>
+    <Param>
+      <ID>8259</ID>
+      <Position>23</Position>
+      <Value>0</Value>
+      <Name>LFO2 Min</Name>
+      <Text/>
+    </Param>
+    <Param>
+      <ID>8260</ID>
+      <Position>23</Position>
+      <Value>0</Value>
+      <Name>LFO2 Max</Name>
+      <Text/>
+    </Param>
+    <Param>
+      <ID>8262</ID>
+      <Position>23</Position>
+      <Value>0</Value>
+      <Name>LFO2 Speed</Name>
+      <Text>0.05Hz</Text>
+    </Param>
+    <Param>
+      <ID>8263</ID>
+      <Position>23</Position>
+      <Value>0</Value>
+      <Name>LFO2 Waveform</Name>
+      <Text>Tri</Text>
+    </Param>
+    <Param>
+      <ID>3203</ID>
+      <Position>24</Position>
+      <Value>24</Value>
+      <Name>EQ A Bass</Name>
+      <Text>12dB</Text>
+    </Param>
+    <Param>
+      <ID>3204</ID>
+      <Position>24</Position>
+      <Value>20</Value>
+      <Name>EQ A Mid</Name>
+      <Text>8dB</Text>
+    </Param>
+    <Param>
+      <ID>3205</ID>
+      <Position>24</Position>
+      <Value>12</Value>
+      <Name>EQ A Treb</Name>
+      <Text>0dB</Text>
+    </Param>
+    <Param>
+      <ID>3212</ID>
+      <Position>24</Position>
+      <Value>1</Value>
+      <Name>EQ A Enable</Name>
+      <Text>On</Text>
+    </Param>
+    <Param>
+      <ID>3213</ID>
+      <Position>24</Position>
+      <Value>0</Value>
+      <Name>EQ A Low Freq</Name>
+      <Text>60Hz</Text>
+    </Param>
+    <Param>
+      <ID>3214</ID>
+      <Position>24</Position>
+      <Value>29</Value>
+      <Name>EQ A Mid Freq</Name>
+      <Text>1.5kHz</Text>
+    </Param>
+    <Param>
+      <ID>3215</ID>
+      <Position>24</Position>
+      <Value>12</Value>
+      <Name>EQ A High Freq</Name>
+      <Text>4kHz</Text>
+    </Param>
+    <Param>
+      <ID>3216</ID>
+      <Position>24</Position>
+      <Value>1</Value>
+      <Name>Low Bandwidth</Name>
+      <Text>Medium</Text>
+    </Param>
+    <Param>
+      <ID>3217</ID>
+      <Position>24</Position>
+      <Value>1</Value>
+      <Name>Mid Bandwidth</Name>
+      <Text>Medium</Text>
+    </Param>
+    <Param>
+      <ID>3218</ID>
+      <Position>24</Position>
+      <Value>1</Value>
+      <Name>High Bandwidth</Name>
+      <Text>Medium</Text>
+    </Param>
+    <Param>
+      <ID>8704</ID>
+      <Position>26</Position>
+      <Value>1792</Value>
+      <Name>Tone Lib Type</Name>
+      <Text>Custom</Text>
+    </Param>
+    <Param>
+      <ID>8705</ID>
+      <Position>26</Position>
+      <Value>1856</Value>
+      <Name>FX Lib Type</Name>
+      <Text>Custom</Text>
+    </Param>
+    <Param>
+      <ID>8706</ID>
+      <Position>26</Position>
+      <Value>54</Value>
+      <Name>FxLiblvl</Name>
+      <Text>54</Text>
+    </Param>
+    <Param>
+      <ID>8708</ID>
+      <Position>26</Position>
+      <Value>183</Value>
+      <Name>FxLibLvlMax1</Name>
+      <Text>183</Text>
+    </Param>
+    <Param>
+      <ID>8710</ID>
+      <Position>26</Position>
+      <Value>19</Value>
+      <Name>FxLibLvlMax2</Name>
+      <Text>19</Text>
+    </Param>
+    <Param>
+      <ID>8712</ID>
+      <Position>26</Position>
+      <Value>76</Value>
+      <Name>FxLibLvlMax3</Name>
+      <Text>76</Text>
+    </Param>
+  </Params>
+</RP500Preset>
