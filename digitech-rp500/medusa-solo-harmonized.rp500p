@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RP500Preset SchemaVersion="1.2" xmlns="http://www.digitech.com/xml/preset">
-  <Name>MDSA L  </Name>
+  <Name>MDSA L H</Name>
   <Params>
     <Param>
       <ID>128</ID>
@@ -208,9 +208,9 @@
     <Param>
       <ID>769</ID>
       <Position>14</Position>
-      <Value>0</Value>
+      <Value>1</Value>
       <Name>Chorus/FX Enable</Name>
-      <Text>Off</Text>
+      <Text>On</Text>
     </Param>
     <Param>
       <ID>770</ID>
