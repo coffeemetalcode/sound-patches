@@ -49,3 +49,4 @@ Patch files with meaningful names with the correct file extension for the device
 
 A place to keep shell, node, or python programs for managing devices and patches, such as bulk organize, bulk rename, bulk dump, bulk push, etc. Lots to explore here.
 
+https://youtube.com/playlist?list=PLDkaUwO57buLPIQxbMgkN3mI74wuxWofF&si=wgMrCI0OWgky-2dH
