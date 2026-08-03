@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project>
+  <fileVersion>
+    <major>5</major>
+    <minor>15</minor>
+    <build>0</build>
+  </fileVersion>
+  <title>New Project</title>
+  <author>coffeemetalcode</author>
+  <width value="8.5" unit="in"/>
+  <height value="11.0" unit="in"/>
+  <gridSpacing value="0.1" unit="in"/>
+  <dotSpacing>1</dotSpacing>
+  <components>
+    <diylc.guitar.HumbuckerPickup>
+      <id>e17a0df1-17c6-44e0-89a5-9814c57e248c</id>
+      <name>SD Alex Skolnick Signature Neck</name>
+      <alphaPercent>
+        <value>100</value>
+      </alphaPercent>
+      <value>Seymour Duncan Alex Skolnick Signature Neck</value>
+      <orientation>DEFAULT</orientation>
+      <controlPoint x="0.0" y="0.0"/>
+      <controlPoints>
+        <point x="7.6" y="0.5"/>
+        <point x="7.6" y="0.6"/>
+        <point x="7.6" y="0.7"/>
+        <point x="7.6" y="0.8"/>
+      </controlPoints>
+      <polarity>North</polarity>
+      <labelColor hex="000000"/>
+      <color hex="c0c0c0"/>
+      <poleColor hex="759daf"/>
+      <type>PAF</type>
+      <cover>false</cover>
+      <legs>true</legs>
+      <bobinColor1 hex="000000"/>
+      <bobinColor2 hex="000000"/>
+    </diylc.guitar.HumbuckerPickup>
+    <diylc.passive.PotentiometerPanel>
+      <id>30487e55-5d18-4b17-8ae6-f8ff231d1d6d</id>
+      <name>Volume</name>
+      <alphaPercent>
+        <value>100</value>
+      </alphaPercent>
+      <controlPoints>
+        <point x="2.5" y="2.7"/>
+        <point x="2.8" y="2.7"/>
+        <point x="3.1" y="2.7"/>
+      </controlPoints>
+      <resistance value="500.0" unit="K"/>
+      <orientation>DEFAULT</orientation>
+      <taper>LOG</taper>
+      <bodyDiameter value="1.0" unit="in"/>
+      <spacing value="0.3" unit="in"/>
+      <lugDiameter value="0.15" unit="in"/>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="808080"/>
+      <nutColor hex="cbd5db"/>
+      <waferColor hex="cd8500"/>
+      <type>ThroughHole</type>
+      <showShaft>false</showShaft>
+      <view>ShaftDown</view>
+      <showMarkers>false</showMarkers>
+      <markerColor hex="808080"/>
+    </diylc.passive.PotentiometerPanel>
+    <diylc.passive.PotentiometerPanel>
+      <id>1e1f1afe-f23f-4f8e-b0e2-19bfae49c8ab</id>
+      <name>Tone</name>
+      <alphaPercent>
+        <value>100</value>
+      </alphaPercent>
+      <controlPoints>
+        <point x="1.8" y="4.3"/>
+        <point x="2.1" y="4.3"/>
+        <point x="2.4" y="4.3"/>
+      </controlPoints>
+      <resistance value="500.0" unit="K"/>
+      <orientation>DEFAULT</orientation>
+      <taper>LIN</taper>
+      <bodyDiameter value="1.0" unit="in"/>
+      <spacing value="0.3" unit="in"/>
+      <lugDiameter value="0.15" unit="in"/>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="808080"/>
+      <nutColor hex="cbd5db"/>
+      <waferColor hex="cd8500"/>
+      <type>ThroughHole</type>
+      <showShaft>false</showShaft>
+      <view>ShaftDown</view>
+      <showMarkers>false</showMarkers>
+      <markerColor hex="808080"/>
+    </diylc.passive.PotentiometerPanel>
+    <diylc.electromechanical.MiniToggleSwitch>
+      <id>9dbcd728-b34d-458c-9756-5d7ca2bc0716</id>
+      <name defined-in="diylc.AbstractComponent">SW1</name>
+      <alphaPercent>
+        <value>100</value>
+      </alphaPercent>
+      <controlPoints>
+        <point x="3.2" y="4.6"/>
+        <point x="3.2" y="4.8"/>
+        <point x="3.2" y="5.0"/>
+        <point x="3.4" y="4.6"/>
+        <point x="3.4" y="4.8"/>
+        <point x="3.4" y="5.0"/>
+      </controlPoints>
+      <switchType>DPDT</switchType>
+      <orientation>VERTICAL</orientation>
+      <spacing value="0.2" unit="in"/>
+      <bodyColor hex="3299cc"/>
+      <borderColor hex="236b8e"/>
+      <terminalPadColor hex="287ba4"/>
+      <terminalColor hex="eeeeee"/>
+      <showMarkers>false</showMarkers>
+    </diylc.electromechanical.MiniToggleSwitch>
+    <diylc.guitar.HumbuckerPickup>
+      <id>a0239f12-3154-42d5-8950-73346abe2097</id>
+      <name>SD Alex Skolnick Signature Bridge</name>
+      <alphaPercent>
+        <value>100</value>
+      </alphaPercent>
+      <value></value>
+      <orientation>_180</orientation>
+      <controlPoint x="0.0" y="0.0"/>
+      <controlPoints>
+        <point x="4.9" y="5.3"/>
+        <point x="4.9" y="5.2"/>
+        <point x="4.9" y="5.1"/>
+        <point x="4.9" y="5.0"/>
+      </controlPoints>
+      <polarity>North</polarity>
+      <labelColor hex="000000"/>
+      <color hex="c0c0c0"/>
+      <poleColor hex="759daf"/>
+      <type>PAF</type>
+      <cover>false</cover>
+      <legs>true</legs>
+      <bobinColor1 hex="000000"/>
+      <bobinColor2 hex="000000"/>
+    </diylc.guitar.HumbuckerPickup>
+    <diylc.guitar.SingleCoilPickup>
+      <id>a79e382c-7a0a-43f5-ac35-516c82226e72</id>
+      <name>SD Psychadelic Strat</name>
+      <alphaPercent>
+        <value>100</value>
+      </alphaPercent>
+      <value></value>
+      <orientation>DEFAULT</orientation>
+      <controlPoint x="0.0" y="0.0"/>
+      <controlPoints>
+        <point x="6.1" y="3.2"/>
+        <point x="6.2" y="3.2"/>
+        <point x="6.3" y="3.2"/>
+        <point x="6.4" y="3.2"/>
+      </controlPoints>
+      <polarity>North</polarity>
+      <labelColor hex="000000"/>
+      <color hex="000000"/>
+      <poleColor hex="759daf"/>
+      <baseColor hex="808080"/>
+      <type>Stratocaster</type>
+      <polePieceType>Rods</polePieceType>
+      <lugColor hex="e0c04c"/>
+    </diylc.guitar.SingleCoilPickup>
+    <diylc.guitar.LeverSwitch>
+      <id>a8a8177c-e4aa-47ba-a901-0f279b1593ef</id>
+      <name>5-way blade</name>
+      <alphaPercent>
+        <value>100</value>
+      </alphaPercent>
+      <angle>0</angle>
+      <controlPoints>
+        <point x="1.9" y="5.5"/>
+        <point x="1.9" y="5.65"/>
+        <point x="1.9" y="5.8"/>
+        <point x="1.9" y="5.95"/>
+        <point x="1.9" y="6.1"/>
+        <point x="1.9" y="6.25"/>
+        <point x="1.9" y="6.4"/>
+        <point x="1.9" y="6.55"/>
+      </controlPoints>
+      <type>DP3T_5pos_Import</type>
+      <showMarkers>false</showMarkers>
+    </diylc.guitar.LeverSwitch>
+    <diylc.electromechanical.OpenJack1__4>
+      <id>66b8335c-9283-42b8-b842-662bbf1a709e</id>
+      <name>Output</name>
+      <alphaPercent>
+        <value>100</value>
+      </alphaPercent>
+      <controlPoints>
+        <point x="1.4" y="0.8"/>
+        <point x="1.79931776" y="0.99909249"/>
+        <point x="1.70021011" y="1.69984233"/>
+      </controlPoints>
+      <orientation>DEFAULT</orientation>
+      <angle>0</angle>
+      <type>MONO</type>
+      <showLabels>true</showLabels>
+    </diylc.electromechanical.OpenJack1__4>
+  </components>
+  <groups/>
+  <groupsEx/>
+  <lockedLayers/>
+  <lockedComponents/>
+  <hiddenLayers/>
+  <font name="Dialog.plain" size="14" style="0"/>
+</project>
